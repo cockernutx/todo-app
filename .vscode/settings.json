@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "todo-app.sln",
+    "maui.configuration.androidSdkPreferredPath": "/opt/android"
+}
